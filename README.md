@@ -1,7 +1,7 @@
 
 ---
 
-# CineClick 
+# CineClick 🎥
 
 ## Movie Ticket Booking System 
 
@@ -24,24 +24,24 @@ The project is organized into the following directories and files:
 
 ## Key Features
 
-### Admin Dashboard (`AdminDashboard.java`)
+### ♦️ Admin Dashboard (`AdminDashboard.java`)
 - Manage users, movie schedules, and system summaries.
 - View detailed reports of system activities.
 
-### Cashier Dashboard (`CashierDashboard.java`)
+### ♦️ Cashier Dashboard (`CashierDashboard.java`)
 - Handle ticket bookings, payments, and transaction histories.
 - Streamlined interface for day-to-day cashier operations.
 
-### Home (`Home.java`)
+### ♦️ Home (`Home.java`)
 - Main entry point to the application, guiding users to login or access public features.
 
-### Login (`Login.java`)
+### ♦️ Login (`Login.java`)
 - Secure user authentication directing to respective dashboards (Admin or Cashier).
 
-### Summary (`Summary.java`)
+### ♦️ Summary (`Summary.java`)
 - Provides summaries or reports on transactions and other system activities.
 
-### User Manager (`UserManager.java`)
+### ♦️ User Manager (`UserManager.java`)
 - Full-featured user management, allowing administrators to add, modify, or delete user accounts.
 
 ## Database Schema
