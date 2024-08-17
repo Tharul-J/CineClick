@@ -57,6 +57,9 @@ The database schema is defined in the `cineclicktested.sql` file located in the 
 
 The graphical user interface is implemented using Java Swing, with design layouts managed by NetBeans form files (`.form`). The application’s visual elements, such as buttons and icons, are stored in the `Assets/` directory.
 
+![6in1](https://github.com/user-attachments/assets/d2da3767-8470-42d8-9248-3bce82c23306)
+
+---
 ## Build and Run
 
 ### Prerequisites
