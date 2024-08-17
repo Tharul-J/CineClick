@@ -44,6 +44,8 @@ The project is organized into the following directories and files:
 ### ♦️ User Manager (`UserManager.java`)
 - Full-featured user management, allowing administrators to add, modify, or delete user accounts.
 
+---
+
 ## 🔖Database Schema
 
 The database schema is defined in the `cineclicktested.sql` file located in the `database/` directory. It includes the following tables:
