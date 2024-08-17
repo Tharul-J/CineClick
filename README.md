@@ -2,11 +2,13 @@
 ---
 
 # CineClick 
+---
+---
 ## Movie Ticket Booking System
 
 ![banner](https://github.com/user-attachments/assets/616baa7b-50bd-4f5f-9bfd-2be85d52534d)
 
---
+---
 ## Overview
 
 **CineClick** is a Java-based desktop application designed to manage movie ticket bookings. The system provides distinct interfaces for administrators and cashiers, facilitating tasks such as user management, movie scheduling, ticket booking, and transaction summaries. This project is an excellent demonstration of a full-stack Java application with a graphical user interface (GUI) and a backend database.
