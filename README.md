@@ -60,26 +60,10 @@ The graphical user interface is implemented using Java Swing, with design layout
 ![6in1](https://github.com/user-attachments/assets/d2da3767-8470-42d8-9248-3bce82c23306)
 
 ---
-## Build and Run
-
-### Prerequisites
-- **Java Development Kit (JDK)**
-- **NetBeans IDE** (Recommended)
-- **Apache Ant** (For build automation)
-
-### Building the Project
-Use the following command to build the project using Apache Ant:
-
-```bash
-ant clean build
-```
-
-### Running the Application
-After building, run the application using the generated JAR file or directly from the IDE.
 
 ## Conclusion
 
 **CineClick** is a comprehensive Java project that exemplifies the development of a desktop application with a robust backend and user-friendly GUI. It's suitable for educational purposes and demonstrates best practices in Java programming, database management, and GUI design.
 
 ---
-
+Tharul-J
