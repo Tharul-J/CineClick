@@ -44,7 +44,7 @@ The project is organized into the following directories and files:
 ### ♦️ User Manager (`UserManager.java`)
 - Full-featured user management, allowing administrators to add, modify, or delete user accounts.
 
-## Database Schema
+## 🔖Database Schema
 
 The database schema is defined in the `cineclicktested.sql` file located in the `database/` directory. It includes the following tables:
 
@@ -53,7 +53,7 @@ The database schema is defined in the `cineclicktested.sql` file located in the 
 - **Tickets**: Holds data on booked tickets, including user details and seat numbers.
 - **Transactions**: Records all financial transactions processed through the system.
 
-## GUI Design
+## 🔖GUI Design
 
 The graphical user interface is implemented using Java Swing, with design layouts managed by NetBeans form files (`.form`). The application’s visual elements, such as buttons and icons, are stored in the `Assets/` directory.
 
