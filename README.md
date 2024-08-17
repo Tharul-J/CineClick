@@ -2,9 +2,8 @@
 ---
 
 # CineClick 
----
----
-## Movie Ticket Booking System
+
+## Movie Ticket Booking System 
 
 ![banner](https://github.com/user-attachments/assets/616baa7b-50bd-4f5f-9bfd-2be85d52534d)
 
