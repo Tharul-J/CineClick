@@ -66,4 +66,4 @@ The graphical user interface is implemented using Java Swing, with design layout
 **CineClick** is a comprehensive Java project that exemplifies the development of a desktop application with a robust backend and user-friendly GUI. It's suitable for educational purposes and demonstrates best practices in Java programming, database management, and GUI design.
 
 ---
-Tharul-J
+ &copy; Tharul-J
