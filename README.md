@@ -54,7 +54,7 @@ The database schema is defined in the `cineclicktested.sql` file located in the 
 - **Movies**: Contains movie details, schedules, and screenings.
 - **BillSummary**: Holds data on booked tickets, including user details and count.
 
---
+---
 
 ## 🔖GUI Design
 
